@@ -1,5 +1,5 @@
-# codigos2yukawaPuebla
-Codigos en fortran para el proyecto de puebla 2022
+# Propiedades estructurales
+
 
 
 
