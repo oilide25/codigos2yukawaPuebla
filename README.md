@@ -6,4 +6,4 @@ de amplitud y alcance delimitados al caso de interes en este proyecto.
 
 # Propiedades estructurales de equilibrio
 
-Código en fortran que resuelve la ecuacion de evolucion para el factor de estructura que proviene de la Teoria NE-SCGLE, en particular, este codigo da como salida el factor de estructura de no-equilibrio asintotico de no-equilibrio para el modelo de SALR (archivo Skaging.dat), el cual depende del estado inicial (de equilibrio), archivo sdk_ini.dat y final (dentro de la region de inestabilidad del sistema SALR), archivo sdk_fin.dat.
+Agingmon.f90o es un código en fortran que resuelve la ecuacion de evolucion para el factor de estructura que proviene de la Teoria NE-SCGLE, en particular, este codigo da como salida el factor de estructura de no-equilibrio asintotico de no-equilibrio para el modelo de SALR (archivo Skaging.dat), el cual depende del estado inicial (de equilibrio), archivo sdk_ini.dat y final (dentro de la region de inestabilidad del sistema SALR), archivo sdk_fin.dat.
